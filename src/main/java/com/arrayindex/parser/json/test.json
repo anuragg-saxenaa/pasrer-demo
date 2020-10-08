@@ -1,0 +1,26 @@
+{
+  "_embedded":{
+    "events":[
+      {
+        "name":"KISS | End Of The Road World Tour",
+        "dates":{
+          "start":{
+            "dateTime":"2021-06-12T19:00:00Z"
+          },
+          "classifications":[
+            {
+              "name":"Rock"
+            }
+          ],
+          "_embedded":{
+            "venues":[
+              {
+                "name":"Atlas Arena"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
